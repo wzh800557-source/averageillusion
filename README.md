@@ -82,17 +82,7 @@ python figures/figS_toy.py
 - **DES-SN5YR**: [DES Collaboration (2024)](https://github.com/des-science/DES-SN5YR)
 - **THESAN**: [Kannan et al. (2022)](https://www.thesan-project.com/)
 
-## Citation
 
-```bibtex
-@article{Wang:2026averaging,
-    author = "Wang, Zihan and Shan, Huanyuan",
-    title = "{Population-averaging kernels manufacture apparent tensions across astrophysics}",
-    year = "2026",
-    eprint = "XXXX.XXXXX",
-    archivePrefix = "arXiv",
-    primaryClass = "astro-ph.CO"
-}
 ```
 
 ## License
