@@ -1,0 +1,74 @@
+{
+  "dataset": "DES-SN5YR",
+  "N_total": 1820,
+  "N_low": 594,
+  "N_high": 1226,
+  "mass_cut": 10.0,
+  "Om_full": 0.3624523839047068,
+  "Om_full_err": 0.003844214000383818,
+  "Om_low": 0.3735874842272623,
+  "Om_low_err": 0.007525378071097116,
+  "Om_high": 0.35725608192848773,
+  "Om_high_err": 0.00446458081182466,
+  "delta_Om": -0.016331402298774556,
+  "delta_Om_err": 0.008750074110443996,
+  "significance": 1.8664301687778355,
+  "n_negative_bins": 6,
+  "n_total_bins": 6,
+  "binned_residuals": [
+    {
+      "z_lo": 0.01,
+      "z_hi": 0.1,
+      "delta": -0.0005975518845003323,
+      "delta_err": 0.017058163837879156,
+      "n_low": 63,
+      "n_high": 138
+    },
+    {
+      "z_lo": 0.1,
+      "z_hi": 0.2,
+      "delta": -0.11143077086199607,
+      "delta_err": 0.03985936110166794,
+      "n_low": 15,
+      "n_high": 29
+    },
+    {
+      "z_lo": 0.2,
+      "z_hi": 0.3,
+      "delta": -0.05961484415087993,
+      "delta_err": 0.023607209519287558,
+      "n_low": 60,
+      "n_high": 98
+    },
+    {
+      "z_lo": 0.3,
+      "z_hi": 0.5,
+      "delta": -0.014083830109638023,
+      "delta_err": 0.014148966681248444,
+      "n_low": 222,
+      "n_high": 333
+    },
+    {
+      "z_lo": 0.5,
+      "z_hi": 0.7,
+      "delta": -0.013307019933571463,
+      "delta_err": 0.014154772065614128,
+      "n_low": 188,
+      "n_high": 417
+    },
+    {
+      "z_lo": 0.7,
+      "z_hi": 1.0,
+      "delta": -0.015703130181237195,
+      "delta_err": 0.03238672150003874,
+      "n_low": 44,
+      "n_high": 196
+    }
+  ],
+  "uses_full_covariance": false,
+  "comparison": {
+    "pantheonplus_delta_Om": -0.051,
+    "pantheonplus_delta_Om_err": 0.015,
+    "pantheonplus_significance": 3.3
+  }
+}
